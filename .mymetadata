@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="JavaUtils"
+  id="myeclipse.1449194412356"
+  context-root="/JavaUtils"
+  j2ee-spec="6.0"
+  archive="JavaUtils.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
